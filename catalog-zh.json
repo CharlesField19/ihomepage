@@ -1,0 +1,1770 @@
+{
+  "edition": "zh-CN",
+  "wordmark": "iancenao",
+  "categories": [
+    {
+      "id": "日常",
+      "name": "日常",
+      "rows": [
+        {
+          "id": "社交",
+          "name": "社交",
+          "links": [
+            {
+              "id": "https-weibo-com",
+              "name": "微博",
+              "url": "https://weibo.com/"
+            },
+            {
+              "id": "https-www-zhihu-com",
+              "name": "知乎",
+              "url": "https://www.zhihu.com/"
+            },
+            {
+              "id": "https-www-xiaohongshu-com",
+              "name": "小红书",
+              "url": "https://www.xiaohongshu.com/"
+            },
+            {
+              "id": "https-tieba-baidu-com",
+              "name": "贴吧",
+              "url": "https://tieba.baidu.com/"
+            },
+            {
+              "id": "https-www-douyin-com",
+              "name": "抖音",
+              "url": "https://www.douyin.com/"
+            },
+            {
+              "id": "https-www-douban-com",
+              "name": "豆瓣",
+              "url": "https://www.douban.com/"
+            }
+          ]
+        },
+        {
+          "id": "购物",
+          "name": "购物",
+          "links": [
+            {
+              "id": "https-www-taobao-com",
+              "name": "淘宝网",
+              "url": "https://www.taobao.com/"
+            },
+            {
+              "id": "https-www-jd-com",
+              "name": "京东",
+              "url": "https://www.jd.com/"
+            },
+            {
+              "id": "https-www-tmall-com",
+              "name": "天猫",
+              "url": "https://www.tmall.com/"
+            },
+            {
+              "id": "https-www-suning-com",
+              "name": "苏宁易购",
+              "url": "https://www.suning.com/"
+            },
+            {
+              "id": "https-www-vip-com",
+              "name": "唯品会",
+              "url": "https://www.vip.com/"
+            },
+            {
+              "id": "https-chaoshi-tmall-com",
+              "name": "天猫超市",
+              "url": "https://chaoshi.tmall.com/"
+            }
+          ]
+        },
+        {
+          "id": "视频",
+          "name": "视频",
+          "links": [
+            {
+              "id": "https-v-qq-com",
+              "name": "腾讯视频",
+              "url": "https://v.qq.com/"
+            },
+            {
+              "id": "https-www-iqiyi-com",
+              "name": "爱奇艺",
+              "url": "https://www.iqiyi.com/"
+            },
+            {
+              "id": "https-www-youku-com",
+              "name": "优酷",
+              "url": "https://www.youku.com/"
+            },
+            {
+              "id": "https-www-mgtv-com",
+              "name": "芒果TV",
+              "url": "https://www.mgtv.com/"
+            },
+            {
+              "id": "https-www-bilibili-com",
+              "name": "哔哩哔哩",
+              "url": "https://www.bilibili.com/"
+            },
+            {
+              "id": "https-www-acfun-cn",
+              "name": "AcFun",
+              "url": "https://www.acfun.cn/"
+            }
+          ]
+        },
+        {
+          "id": "门户",
+          "name": "门户",
+          "links": [
+            {
+              "id": "https-www-qq-com",
+              "name": "腾讯网",
+              "url": "https://www.qq.com/"
+            },
+            {
+              "id": "https-www-163-com",
+              "name": "网易",
+              "url": "https://www.163.com/"
+            },
+            {
+              "id": "https-www-sina-com-cn",
+              "name": "新浪网",
+              "url": "https://www.sina.com.cn/"
+            },
+            {
+              "id": "https-www-sohu-com",
+              "name": "搜狐",
+              "url": "https://www.sohu.com/"
+            },
+            {
+              "id": "https-www-ifeng-com",
+              "name": "凤凰网",
+              "url": "https://www.ifeng.com/"
+            },
+            {
+              "id": "https-www-cctv-com",
+              "name": "央视网",
+              "url": "https://www.cctv.com/"
+            }
+          ]
+        },
+        {
+          "id": "资讯",
+          "name": "资讯",
+          "links": [
+            {
+              "id": "https-www-toutiao-com",
+              "name": "今日头条",
+              "url": "https://www.toutiao.com/"
+            },
+            {
+              "id": "https-www-myzaker-com",
+              "name": "ZAKER",
+              "url": "https://www.myzaker.com/"
+            },
+            {
+              "id": "https-www-thepaper-cn",
+              "name": "澎湃新闻",
+              "url": "https://www.thepaper.cn/"
+            },
+            {
+              "id": "https-www-huanqiu-com",
+              "name": "环球网",
+              "url": "https://www.huanqiu.com/"
+            },
+            {
+              "id": "https-www-huxiu-com",
+              "name": "虎嗅网",
+              "url": "https://www.huxiu.com/"
+            },
+            {
+              "id": "https-www-jiemian-com",
+              "name": "界面新闻",
+              "url": "https://www.jiemian.com/"
+            }
+          ]
+        },
+        {
+          "id": "发现",
+          "name": "发现",
+          "links": [
+            {
+              "id": "https-sspai-com",
+              "name": "少数派",
+              "url": "https://sspai.com/"
+            },
+            {
+              "id": "https-www-dgtle-com",
+              "name": "数字尾巴",
+              "url": "https://www.dgtle.com/"
+            },
+            {
+              "id": "https-www-ifanr-com",
+              "name": "爱范儿",
+              "url": "https://www.ifanr.com/"
+            },
+            {
+              "id": "https-jandan-net",
+              "name": "煎蛋",
+              "url": "https://jandan.net/"
+            },
+            {
+              "id": "https-bbs-hupu-com",
+              "name": "虎扑社区",
+              "url": "https://bbs.hupu.com/"
+            },
+            {
+              "id": "https-web-okjike-com",
+              "name": "即刻",
+              "url": "https://web.okjike.com/"
+            }
+          ]
+        },
+        {
+          "id": "生活",
+          "name": "生活",
+          "links": [
+            {
+              "id": "https-www-ctrip-com",
+              "name": "携程旅行",
+              "url": "https://www.ctrip.com/"
+            },
+            {
+              "id": "https-www-fliggy-com",
+              "name": "飞猪旅行",
+              "url": "https://www.fliggy.com/"
+            },
+            {
+              "id": "https-www-dianping-com",
+              "name": "大众点评",
+              "url": "https://www.dianping.com/"
+            },
+            {
+              "id": "https-www-mafengwo-cn",
+              "name": "马蜂窝",
+              "url": "https://www.mafengwo.cn/"
+            },
+            {
+              "id": "https-58-com",
+              "name": "58同城",
+              "url": "https://58.com/"
+            },
+            {
+              "id": "https-www-12306-cn-index",
+              "name": "中国铁路",
+              "url": "https://www.12306.cn/index/"
+            }
+          ]
+        },
+        {
+          "id": "便捷",
+          "name": "便捷",
+          "links": [
+            {
+              "id": "https-fanyi-baidu-com",
+              "name": "百度翻译",
+              "url": "https://fanyi.baidu.com/"
+            },
+            {
+              "id": "https-map-baidu-com",
+              "name": "百度地图",
+              "url": "https://map.baidu.com/"
+            },
+            {
+              "id": "https-filehelper-weixin-qq-com",
+              "name": "文件传输助手",
+              "url": "https://filehelper.weixin.qq.com/"
+            },
+            {
+              "id": "https-cn-office-converter-com",
+              "name": "在线转换",
+              "url": "https://cn.office-converter.com/"
+            },
+            {
+              "id": "https-wormhole-app",
+              "name": "文件分享",
+              "url": "https://wormhole.app/"
+            },
+            {
+              "id": "https-www-kuaidi100-com",
+              "name": "快递查询",
+              "url": "https://www.kuaidi100.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "娱乐",
+      "name": "娱乐",
+      "rows": [
+        {
+          "id": "发现-2",
+          "name": "发现",
+          "links": [
+            {
+              "id": "https-www-36kr-com",
+              "name": "36Kr",
+              "url": "https://www.36kr.com/"
+            },
+            {
+              "id": "https-www-solidot-org",
+              "name": "Solidot",
+              "url": "https://www.solidot.org/"
+            },
+            {
+              "id": "https-www-ithome-com",
+              "name": "IT之家",
+              "url": "https://www.ithome.com/"
+            },
+            {
+              "id": "https-www-chiphell-com",
+              "name": "Chiphell",
+              "url": "https://www.chiphell.com/"
+            },
+            {
+              "id": "https-www-pingwest-com",
+              "name": "品玩",
+              "url": "https://www.pingwest.com/"
+            },
+            {
+              "id": "https-www-jianshu-com",
+              "name": "简书",
+              "url": "https://www.jianshu.com/"
+            }
+          ]
+        },
+        {
+          "id": "视频-2",
+          "name": "视频",
+          "links": [
+            {
+              "id": "https-www-douyin-com-2",
+              "name": "抖音",
+              "url": "https://www.douyin.com/"
+            },
+            {
+              "id": "https-www-kuaishou-com",
+              "name": "快手",
+              "url": "https://www.kuaishou.com/"
+            },
+            {
+              "id": "https-www-ixigua-com",
+              "name": "西瓜视频",
+              "url": "https://www.ixigua.com/"
+            },
+            {
+              "id": "https-haokan-baidu-com",
+              "name": "好看视频",
+              "url": "https://haokan.baidu.com/"
+            },
+            {
+              "id": "https-movie-douban-com",
+              "name": "豆瓣电影",
+              "url": "https://movie.douban.com/"
+            },
+            {
+              "id": "https-www-youtube-com",
+              "name": "YouTube",
+              "url": "https://www.youtube.com/"
+            }
+          ]
+        },
+        {
+          "id": "直播",
+          "name": "直播",
+          "links": [
+            {
+              "id": "https-www-douyu-com",
+              "name": "斗鱼",
+              "url": "https://www.douyu.com/"
+            },
+            {
+              "id": "https-www-huya-com",
+              "name": "虎牙",
+              "url": "https://www.huya.com/"
+            },
+            {
+              "id": "https-live-douyin-com",
+              "name": "抖音直播",
+              "url": "https://live.douyin.com/"
+            },
+            {
+              "id": "https-live-kuaishou-com",
+              "name": "快手直播",
+              "url": "https://live.kuaishou.com/"
+            },
+            {
+              "id": "https-www-yy-com",
+              "name": "YY直播",
+              "url": "https://www.yy.com/"
+            },
+            {
+              "id": "https-www-ipanda-com",
+              "name": "iPanda",
+              "url": "https://www.ipanda.com/"
+            }
+          ]
+        },
+        {
+          "id": "音乐",
+          "name": "音乐",
+          "links": [
+            {
+              "id": "https-y-qq-com",
+              "name": "QQ音乐",
+              "url": "https://y.qq.com/"
+            },
+            {
+              "id": "https-music-163-com",
+              "name": "网易云音乐",
+              "url": "https://music.163.com/"
+            },
+            {
+              "id": "https-www-kugou-com",
+              "name": "酷狗音乐",
+              "url": "https://www.kugou.com/"
+            },
+            {
+              "id": "https-music-migu-cn",
+              "name": "咪咕音乐",
+              "url": "https://music.migu.cn/"
+            },
+            {
+              "id": "https-www-kuwo-cn",
+              "name": "酷我音乐",
+              "url": "https://www.kuwo.cn/"
+            },
+            {
+              "id": "http-5sing-kugou-com",
+              "name": "5sing",
+              "url": "http://5sing.kugou.com/"
+            }
+          ]
+        },
+        {
+          "id": "动漫",
+          "name": "动漫",
+          "links": [
+            {
+              "id": "https-ac-qq-com",
+              "name": "腾讯动漫",
+              "url": "https://ac.qq.com/"
+            },
+            {
+              "id": "https-manga-bilibili-com",
+              "name": "哔哩哔哩漫画",
+              "url": "https://manga.bilibili.com/"
+            },
+            {
+              "id": "https-www-kuaikanmanhua-com",
+              "name": "快看漫画",
+              "url": "https://www.kuaikanmanhua.com/"
+            },
+            {
+              "id": "https-www-idmzj-com",
+              "name": "动漫之家",
+              "url": "https://www.idmzj.com/"
+            },
+            {
+              "id": "https-www-kanman-com",
+              "name": "看漫画",
+              "url": "https://www.kanman.com/"
+            },
+            {
+              "id": "https-www-mkzhan-com",
+              "name": "漫客栈",
+              "url": "https://www.mkzhan.com/"
+            }
+          ]
+        },
+        {
+          "id": "游戏",
+          "name": "游戏",
+          "links": [
+            {
+              "id": "https-store-steampowered-com",
+              "name": "Steam",
+              "url": "https://store.steampowered.com/"
+            },
+            {
+              "id": "https-www-nintendo-co-jp",
+              "name": "Nintendo",
+              "url": "https://www.nintendo.co.jp/"
+            },
+            {
+              "id": "https-www-playstation-com",
+              "name": "PlayStation",
+              "url": "https://www.playstation.com/"
+            },
+            {
+              "id": "https-www-xbox-com",
+              "name": "Xbox",
+              "url": "https://www.xbox.com/"
+            },
+            {
+              "id": "https-bbs-nga-cn",
+              "name": "NGA论坛",
+              "url": "https://bbs.nga.cn/"
+            },
+            {
+              "id": "https-www-gamersky-com",
+              "name": "游民星空",
+              "url": "https://www.gamersky.com/"
+            }
+          ]
+        },
+        {
+          "id": "体育",
+          "name": "体育",
+          "links": [
+            {
+              "id": "https-sports-qq-com",
+              "name": "腾讯体育",
+              "url": "https://sports.qq.com/"
+            },
+            {
+              "id": "https-sports-sohu-com",
+              "name": "搜狐体育",
+              "url": "https://sports.sohu.com/"
+            },
+            {
+              "id": "https-sports-sina-com-cn",
+              "name": "新浪体育",
+              "url": "https://sports.sina.com.cn/"
+            },
+            {
+              "id": "https-sports-cctv-com",
+              "name": "央视体育",
+              "url": "https://sports.cctv.com/"
+            },
+            {
+              "id": "https-www-hupu-com",
+              "name": "虎扑",
+              "url": "https://www.hupu.com/"
+            },
+            {
+              "id": "https-www-zhibo8-cc",
+              "name": "直播吧",
+              "url": "https://www.zhibo8.cc/"
+            }
+          ]
+        },
+        {
+          "id": "文学",
+          "name": "文学",
+          "links": [
+            {
+              "id": "https-www-qidian-com",
+              "name": "起点中文网",
+              "url": "https://www.qidian.com/"
+            },
+            {
+              "id": "https-www-zongheng-com",
+              "name": "纵横中文网",
+              "url": "https://www.zongheng.com/"
+            },
+            {
+              "id": "https-www-hongxiu-com",
+              "name": "红袖添香",
+              "url": "https://www.hongxiu.com/"
+            },
+            {
+              "id": "https-weread-qq-com",
+              "name": "微信读书",
+              "url": "https://weread.qq.com/"
+            },
+            {
+              "id": "https-read-douban-com",
+              "name": "豆瓣阅读",
+              "url": "https://read.douban.com/"
+            },
+            {
+              "id": "https-www-ximalaya-com",
+              "name": "喜马拉雅",
+              "url": "https://www.ximalaya.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "生活-2",
+      "name": "生活",
+      "rows": [
+        {
+          "id": "购物-2",
+          "name": "购物",
+          "links": [
+            {
+              "id": "https-you-163-com",
+              "name": "网易严选",
+              "url": "https://you.163.com/"
+            },
+            {
+              "id": "https-www-kaola-com",
+              "name": "考拉海购",
+              "url": "https://www.kaola.com/"
+            },
+            {
+              "id": "https-www-1688-com",
+              "name": "阿里巴巴",
+              "url": "https://www.1688.com/"
+            },
+            {
+              "id": "https-www-dangdang-com",
+              "name": "当当网",
+              "url": "https://www.dangdang.com/"
+            },
+            {
+              "id": "https-www-gome-com-cn",
+              "name": "国美在线",
+              "url": "https://www.gome.com.cn/"
+            },
+            {
+              "id": "https-www-amazon-cn",
+              "name": "亚马逊中国",
+              "url": "https://www.amazon.cn/"
+            }
+          ]
+        },
+        {
+          "id": "出行",
+          "name": "出行",
+          "links": [
+            {
+              "id": "https-www-ctrip-com-2",
+              "name": "携程旅行",
+              "url": "https://www.ctrip.com/"
+            },
+            {
+              "id": "https-www-fliggy-com-2",
+              "name": "飞猪旅行",
+              "url": "https://www.fliggy.com/"
+            },
+            {
+              "id": "https-www-qunar-com",
+              "name": "去哪儿",
+              "url": "https://www.qunar.com/"
+            },
+            {
+              "id": "https-www-airbnb-cn",
+              "name": "爱彼迎",
+              "url": "https://www.airbnb.cn/"
+            },
+            {
+              "id": "https-www-mafengwo-cn-2",
+              "name": "马蜂窝",
+              "url": "https://www.mafengwo.cn/"
+            },
+            {
+              "id": "https-www-12306-cn-index-2",
+              "name": "中国铁路",
+              "url": "https://www.12306.cn/index/"
+            }
+          ]
+        },
+        {
+          "id": "工作",
+          "name": "工作",
+          "links": [
+            {
+              "id": "https-www-zhipin-com",
+              "name": "BOSS直聘",
+              "url": "https://www.zhipin.com/"
+            },
+            {
+              "id": "https-www-lagou-com",
+              "name": "拉勾网",
+              "url": "https://www.lagou.com/"
+            },
+            {
+              "id": "https-www-51job-com",
+              "name": "前程无忧",
+              "url": "https://www.51job.com/"
+            },
+            {
+              "id": "https-www-zhaopin-com",
+              "name": "智联招聘",
+              "url": "https://www.zhaopin.com/"
+            },
+            {
+              "id": "https-www-liepin-com",
+              "name": "猎聘",
+              "url": "https://www.liepin.com/"
+            },
+            {
+              "id": "https-www-linkedin-com",
+              "name": "领英",
+              "url": "https://www.linkedin.com/"
+            }
+          ]
+        },
+        {
+          "id": "美食",
+          "name": "美食",
+          "links": [
+            {
+              "id": "https-www-xiachufang-com",
+              "name": "下厨房",
+              "url": "https://www.xiachufang.com/"
+            },
+            {
+              "id": "https-www-meishichina-com",
+              "name": "美食天下",
+              "url": "https://www.meishichina.com/"
+            },
+            {
+              "id": "https-www-meishij-net",
+              "name": "美食杰",
+              "url": "https://www.meishij.net/"
+            },
+            {
+              "id": "https-www-douguo-com",
+              "name": "豆果美食",
+              "url": "https://www.douguo.com/"
+            },
+            {
+              "id": "https-cook-aiurs-co",
+              "name": "做饭指南",
+              "url": "https://cook.aiurs.co/"
+            },
+            {
+              "id": "https-www-3c1t-com",
+              "name": "三菜一汤",
+              "url": "https://www.3c1t.com/"
+            }
+          ]
+        },
+        {
+          "id": "房产",
+          "name": "房产",
+          "links": [
+            {
+              "id": "https-www-anjuke-com",
+              "name": "安居客",
+              "url": "https://www.anjuke.com/"
+            },
+            {
+              "id": "https-www-fang-com",
+              "name": "房天下",
+              "url": "https://www.fang.com/"
+            },
+            {
+              "id": "https-www-loupan-com",
+              "name": "楼盘网",
+              "url": "https://www.loupan.com/"
+            },
+            {
+              "id": "https-www-lianjia-com",
+              "name": "链家网",
+              "url": "https://www.lianjia.com/"
+            },
+            {
+              "id": "https-www-ke-com",
+              "name": "贝壳",
+              "url": "https://www.ke.com/"
+            },
+            {
+              "id": "https-www-5i5j-com",
+              "name": "我爱我家",
+              "url": "https://www.5i5j.com/"
+            }
+          ]
+        },
+        {
+          "id": "汽车",
+          "name": "汽车",
+          "links": [
+            {
+              "id": "https-www-autohome-com-cn",
+              "name": "汽车之家",
+              "url": "https://www.autohome.com.cn/"
+            },
+            {
+              "id": "https-www-yiche-com",
+              "name": "易车网",
+              "url": "https://www.yiche.com/"
+            },
+            {
+              "id": "https-www-dongchedi-com",
+              "name": "懂车帝",
+              "url": "https://www.dongchedi.com/"
+            },
+            {
+              "id": "https-www-pcauto-com-cn",
+              "name": "太平洋汽车",
+              "url": "https://www.pcauto.com.cn/"
+            },
+            {
+              "id": "https-www-xcar-com-cn",
+              "name": "爱卡汽车",
+              "url": "https://www.xcar.com.cn/"
+            },
+            {
+              "id": "https-www-che168-com",
+              "name": "二手车之家",
+              "url": "https://www.che168.com/"
+            }
+          ]
+        },
+        {
+          "id": "财经",
+          "name": "财经",
+          "links": [
+            {
+              "id": "https-www-caixin-com",
+              "name": "财新网",
+              "url": "https://www.caixin.com/"
+            },
+            {
+              "id": "https-www-gelonghui-com",
+              "name": "格隆汇",
+              "url": "https://www.gelonghui.com/"
+            },
+            {
+              "id": "https-cn-wsj-com",
+              "name": "华尔街日报",
+              "url": "https://cn.wsj.com/"
+            },
+            {
+              "id": "https-xueqiu-com",
+              "name": "雪球网",
+              "url": "https://xueqiu.com/"
+            },
+            {
+              "id": "https-www-eastmoney-com",
+              "name": "东方财富",
+              "url": "https://www.eastmoney.com/"
+            },
+            {
+              "id": "https-www-jin10-com",
+              "name": "金十数据",
+              "url": "https://www.jin10.com/"
+            }
+          ]
+        },
+        {
+          "id": "便民",
+          "name": "便民",
+          "links": [
+            {
+              "id": "https-www-114best-com",
+              "name": "电话查询",
+              "url": "https://www.114best.com/"
+            },
+            {
+              "id": "https-www-speedtest-net",
+              "name": "网速测试",
+              "url": "https://www.speedtest.net/"
+            },
+            {
+              "id": "https-www-msdmanuals-cn",
+              "name": "默沙东诊疗",
+              "url": "https://www.msdmanuals.cn/"
+            },
+            {
+              "id": "https-drugs-dxy-cn",
+              "name": "用药助手",
+              "url": "https://drugs.dxy.cn/"
+            },
+            {
+              "id": "https-zoom-earth",
+              "name": "卫星云图",
+              "url": "https://zoom.earth/"
+            },
+            {
+              "id": "https-typhoon-slt-zj-gov-cn",
+              "name": "台风路径",
+              "url": "https://typhoon.slt.zj.gov.cn/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "学习",
+      "name": "学习",
+      "rows": [
+        {
+          "id": "网课",
+          "name": "网课",
+          "links": [
+            {
+              "id": "https-open-163-com",
+              "name": "网易公开课",
+              "url": "https://open.163.com/"
+            },
+            {
+              "id": "https-study-163-com",
+              "name": "网易云课堂",
+              "url": "https://study.163.com/"
+            },
+            {
+              "id": "https-ke-qq-com",
+              "name": "腾讯课堂",
+              "url": "https://ke.qq.com/"
+            },
+            {
+              "id": "https-www-icourse163-org",
+              "name": "中国大学MOOC",
+              "url": "https://www.icourse163.org/"
+            },
+            {
+              "id": "https-www-imooc-com",
+              "name": "慕课网",
+              "url": "https://www.imooc.com/"
+            },
+            {
+              "id": "https-www-udemy-com",
+              "name": "Udemy",
+              "url": "https://www.udemy.com/"
+            }
+          ]
+        },
+        {
+          "id": "文库",
+          "name": "文库",
+          "links": [
+            {
+              "id": "https-wenku-baidu-com",
+              "name": "百度文库",
+              "url": "https://wenku.baidu.com/"
+            },
+            {
+              "id": "https-wenku-so-com",
+              "name": "360文库",
+              "url": "https://wenku.so.com/"
+            },
+            {
+              "id": "https-www-doc88-com",
+              "name": "道客巴巴",
+              "url": "https://www.doc88.com/"
+            },
+            {
+              "id": "https-www-docin-com",
+              "name": "豆丁网",
+              "url": "https://www.docin.com/"
+            },
+            {
+              "id": "https-cont-12315-cn",
+              "name": "合同范文",
+              "url": "https://cont.12315.cn/"
+            },
+            {
+              "id": "https-wenshu-court-gov-cn",
+              "name": "裁判文书",
+              "url": "https://wenshu.court.gov.cn/"
+            }
+          ]
+        },
+        {
+          "id": "学术",
+          "name": "学术",
+          "links": [
+            {
+              "id": "https-xueshu-baidu-com",
+              "name": "百度学术",
+              "url": "https://xueshu.baidu.com/"
+            },
+            {
+              "id": "https-scholar-google-com",
+              "name": "谷歌学术",
+              "url": "https://scholar.google.com/"
+            },
+            {
+              "id": "https-www-bing-com-academic",
+              "name": "必应学术",
+              "url": "https://www.bing.com/academic"
+            },
+            {
+              "id": "https-www-cnki-net",
+              "name": "中国知网",
+              "url": "https://www.cnki.net/"
+            },
+            {
+              "id": "https-www-wanfangdata-com-cn",
+              "name": "万方数据",
+              "url": "https://www.wanfangdata.com.cn/"
+            },
+            {
+              "id": "http-www-cqvip-com",
+              "name": "维普网",
+              "url": "http://www.cqvip.com/"
+            }
+          ]
+        },
+        {
+          "id": "词典",
+          "name": "词典",
+          "links": [
+            {
+              "id": "https-www-youdao-com",
+              "name": "有道词典",
+              "url": "https://www.youdao.com/"
+            },
+            {
+              "id": "https-dictionary-cambridge-org-zhs",
+              "name": "剑桥词典",
+              "url": "https://dictionary.cambridge.org/zhs/"
+            },
+            {
+              "id": "https-www-collinsdictionary-com-zh",
+              "name": "柯林斯词典",
+              "url": "https://www.collinsdictionary.com/zh/"
+            },
+            {
+              "id": "https-www-zdic-net",
+              "name": "汉语词典",
+              "url": "https://www.zdic.net/"
+            },
+            {
+              "id": "https-zh-wiktionary-org",
+              "name": "维基词典",
+              "url": "https://zh.wiktionary.org/"
+            },
+            {
+              "id": "https-cjjc-weblio-jp",
+              "name": "中日词典",
+              "url": "https://cjjc.weblio.jp/"
+            }
+          ]
+        },
+        {
+          "id": "资讯-2",
+          "name": "资讯",
+          "links": [
+            {
+              "id": "https-new-qq-com-ch-edu",
+              "name": "腾讯教育",
+              "url": "https://new.qq.com/ch/edu/"
+            },
+            {
+              "id": "https-learning-sohu-com",
+              "name": "搜狐教育",
+              "url": "https://learning.sohu.com/"
+            },
+            {
+              "id": "https-edu-163-com",
+              "name": "网易教育",
+              "url": "https://edu.163.com/"
+            },
+            {
+              "id": "https-www-eol-cn",
+              "name": "中国教育在线",
+              "url": "https://www.eol.cn/"
+            },
+            {
+              "id": "https-www-hjenglish-com",
+              "name": "沪江英语",
+              "url": "https://www.hjenglish.com/"
+            },
+            {
+              "id": "https-www-51test-net",
+              "name": "无忧考网",
+              "url": "https://www.51test.net/"
+            }
+          ]
+        },
+        {
+          "id": "模考",
+          "name": "模考",
+          "links": [
+            {
+              "id": "https-www-kmf-com",
+              "name": "考满分",
+              "url": "https://www.kmf.com/"
+            },
+            {
+              "id": "https-www-chinaacc-com-tiku",
+              "name": "会计题库",
+              "url": "https://www.chinaacc.com/tiku/"
+            },
+            {
+              "id": "https-leetcode-cn-com",
+              "name": "LeetCode",
+              "url": "https://leetcode-cn.com/"
+            },
+            {
+              "id": "https-www-typing-com-student",
+              "name": "打字练习",
+              "url": "https://www.typing.com/student"
+            },
+            {
+              "id": "https-www-jxedt-com",
+              "name": "驾校一点通",
+              "url": "https://www.jxedt.com/"
+            },
+            {
+              "id": "https-www-jiakaobaodian-com",
+              "name": "驾考宝典",
+              "url": "https://www.jiakaobaodian.com/"
+            }
+          ]
+        },
+        {
+          "id": "便捷-2",
+          "name": "便捷",
+          "links": [
+            {
+              "id": "https-www-duolingo-cn",
+              "name": "多邻国",
+              "url": "https://www.duolingo.cn/"
+            },
+            {
+              "id": "https-mubu-com",
+              "name": "幕布",
+              "url": "https://mubu.com/"
+            },
+            {
+              "id": "https-www-shuge-org",
+              "name": "书格",
+              "url": "https://www.shuge.org/"
+            },
+            {
+              "id": "https-www-fakefilegenerator-com-generate-file-php",
+              "name": "损坏文件生成",
+              "url": "https://www.fakefilegenerator.com/generate-file.php"
+            },
+            {
+              "id": "https-www-diffchecker-com",
+              "name": "文本对比",
+              "url": "https://www.diffchecker.com/"
+            },
+            {
+              "id": "https-www-wolframalpha-com",
+              "name": "WolframAlpha",
+              "url": "https://www.wolframalpha.com/"
+            }
+          ]
+        },
+        {
+          "id": "查询",
+          "name": "查询",
+          "links": [
+            {
+              "id": "https-www-chsi-com-cn",
+              "name": "学信网",
+              "url": "https://www.chsi.com.cn/"
+            },
+            {
+              "id": "https-www-cltt-org",
+              "name": "普通话水平",
+              "url": "https://www.cltt.org/"
+            },
+            {
+              "id": "https-www-neea-edu-cn-html1-folder-1607-298-1-htm",
+              "name": "考试报名",
+              "url": "https://www.neea.edu.cn/html1/folder/1607/298-1.htm"
+            },
+            {
+              "id": "https-cjcx-neea-edu-cn",
+              "name": "成绩查询",
+              "url": "https://cjcx.neea.edu.cn/"
+            },
+            {
+              "id": "https-zscx-neea-edu-cn",
+              "name": "证书查询",
+              "url": "https://zscx.neea.edu.cn/"
+            },
+            {
+              "id": "https-toefl-neea-cn",
+              "name": "托福网考",
+              "url": "https://toefl.neea.cn/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "开发",
+      "name": "开发",
+      "rows": [
+        {
+          "id": "社区",
+          "name": "社区",
+          "links": [
+            {
+              "id": "https-juejin-cn",
+              "name": "稀土掘金",
+              "url": "https://juejin.cn/"
+            },
+            {
+              "id": "https-www-csdn-net",
+              "name": "CSDN",
+              "url": "https://www.csdn.net/"
+            },
+            {
+              "id": "https-www-v2ex-com",
+              "name": "V2EX",
+              "url": "https://www.v2ex.com/"
+            },
+            {
+              "id": "https-www-reddit-com",
+              "name": "Reddit",
+              "url": "https://www.reddit.com/"
+            },
+            {
+              "id": "https-stackoverflow-com",
+              "name": "StackOverflow",
+              "url": "https://stackoverflow.com/"
+            },
+            {
+              "id": "https-news-ycombinator-com",
+              "name": "HackerNews",
+              "url": "https://news.ycombinator.com/"
+            }
+          ]
+        },
+        {
+          "id": "平台",
+          "name": "平台",
+          "links": [
+            {
+              "id": "https-github-com",
+              "name": "GitHub",
+              "url": "https://github.com/"
+            },
+            {
+              "id": "https-gitlab-com",
+              "name": "GitLab",
+              "url": "https://gitlab.com/"
+            },
+            {
+              "id": "https-gitee-com",
+              "name": "Gitee",
+              "url": "https://gitee.com/"
+            },
+            {
+              "id": "https-www-aliyun-com",
+              "name": "阿里云",
+              "url": "https://www.aliyun.com/"
+            },
+            {
+              "id": "https-cloud-tencent-com",
+              "name": "腾讯云",
+              "url": "https://cloud.tencent.com/"
+            },
+            {
+              "id": "https-aws-amazon-com",
+              "name": "AWS",
+              "url": "https://aws.amazon.com/"
+            }
+          ]
+        },
+        {
+          "id": "智能",
+          "name": "智能",
+          "links": [
+            {
+              "id": "https-chat-openai-com",
+              "name": "ChatGPT",
+              "url": "https://chat.openai.com/"
+            },
+            {
+              "id": "https-gemini-google-com",
+              "name": "Gemini",
+              "url": "https://gemini.google.com/"
+            },
+            {
+              "id": "https-www-coze-com",
+              "name": "Coze",
+              "url": "https://www.coze.com/"
+            },
+            {
+              "id": "https-poe-com",
+              "name": "Poe",
+              "url": "https://poe.com/"
+            },
+            {
+              "id": "https-yiyan-baidu-com",
+              "name": "文心一言",
+              "url": "https://yiyan.baidu.com/"
+            },
+            {
+              "id": "https-tongyi-aliyun-com-qianwen",
+              "name": "通义千问",
+              "url": "https://tongyi.aliyun.com/qianwen/"
+            }
+          ]
+        },
+        {
+          "id": "工具",
+          "name": "工具",
+          "links": [
+            {
+              "id": "https-www-ipip-net",
+              "name": "IPIP.NET",
+              "url": "https://www.ipip.net/"
+            },
+            {
+              "id": "https-regexr-com",
+              "name": "RegExr",
+              "url": "https://regexr.com/"
+            },
+            {
+              "id": "https-namebeta-com",
+              "name": "NameBeta",
+              "url": "https://namebeta.com/"
+            },
+            {
+              "id": "https-www-domcomp-com",
+              "name": "domcomp",
+              "url": "https://www.domcomp.com/"
+            },
+            {
+              "id": "https-codesandbox-io",
+              "name": "CodeSandbox",
+              "url": "https://codesandbox.io/"
+            },
+            {
+              "id": "https-codepen-io",
+              "name": "CodePen",
+              "url": "https://codepen.io/"
+            }
+          ]
+        },
+        {
+          "id": "分析",
+          "name": "分析",
+          "links": [
+            {
+              "id": "https-ping-pe",
+              "name": "Ping.pe",
+              "url": "https://ping.pe/"
+            },
+            {
+              "id": "https-17ce-com",
+              "name": "17CE",
+              "url": "https://17ce.com/"
+            },
+            {
+              "id": "https-www-digitalocean-com-community-tools-dns",
+              "name": "DNS Lookup",
+              "url": "https://www.digitalocean.com/community/tools/dns"
+            },
+            {
+              "id": "https-pagespeed-web-dev",
+              "name": "PageSpeed",
+              "url": "https://pagespeed.web.dev/"
+            },
+            {
+              "id": "https-www-virustotal-com",
+              "name": "VirusTotal",
+              "url": "https://www.virustotal.com/"
+            },
+            {
+              "id": "https-boce-aliyun-com",
+              "name": "阿里云运维检测",
+              "url": "https://boce.aliyun.com/"
+            }
+          ]
+        },
+        {
+          "id": "文档",
+          "name": "文档",
+          "links": [
+            {
+              "id": "https-developer-mozilla-org",
+              "name": "MDN",
+              "url": "https://developer.mozilla.org/"
+            },
+            {
+              "id": "https-developer-android-com-docs",
+              "name": "Android文档",
+              "url": "https://developer.android.com/docs"
+            },
+            {
+              "id": "https-developer-apple-com-cn-documentation",
+              "name": "Apple文档",
+              "url": "https://developer.apple.com/cn/documentation/"
+            },
+            {
+              "id": "https-www-w3school-com-cn",
+              "name": "W3school",
+              "url": "https://www.w3school.com.cn/"
+            },
+            {
+              "id": "https-developers-weixin-qq-com-miniprogram-dev-framework",
+              "name": "微信小程序",
+              "url": "https://developers.weixin.qq.com/miniprogram/dev/framework/"
+            },
+            {
+              "id": "https-caniuse-com",
+              "name": "Can I use",
+              "url": "https://caniuse.com/"
+            }
+          ]
+        },
+        {
+          "id": "博文",
+          "name": "博文",
+          "links": [
+            {
+              "id": "https-www-ruanyifeng-com-blog",
+              "name": "阮一峰博客",
+              "url": "https://www.ruanyifeng.com/blog/"
+            },
+            {
+              "id": "https-www-yinwang-org",
+              "name": "王垠博客",
+              "url": "https://www.yinwang.org/"
+            },
+            {
+              "id": "https-www-zhangxinxu-com",
+              "name": "张鑫旭博客",
+              "url": "https://www.zhangxinxu.com/"
+            },
+            {
+              "id": "https-tech-meituan-com",
+              "name": "美团技术团队",
+              "url": "https://tech.meituan.com/"
+            },
+            {
+              "id": "https-aotu-io",
+              "name": "凹凸实验室",
+              "url": "https://aotu.io/"
+            },
+            {
+              "id": "https-www-iplaysoft-com",
+              "name": "异次元",
+              "url": "https://www.iplaysoft.com/"
+            }
+          ]
+        },
+        {
+          "id": "资源",
+          "name": "资源",
+          "links": [
+            {
+              "id": "https-www-producthunt-com",
+              "name": "ProductHunt",
+              "url": "https://www.producthunt.com/"
+            },
+            {
+              "id": "https-www-npmjs-com",
+              "name": "npm",
+              "url": "https://www.npmjs.com/"
+            },
+            {
+              "id": "https-hub-docker-com",
+              "name": "Docker Hub",
+              "url": "https://hub.docker.com/"
+            },
+            {
+              "id": "https-formulae-brew-sh",
+              "name": "Homebrew",
+              "url": "https://formulae.brew.sh/"
+            },
+            {
+              "id": "https-css-tricks-com",
+              "name": "CSS-Tricks",
+              "url": "https://css-tricks.com/"
+            },
+            {
+              "id": "https-archive-org",
+              "name": "Internet Archive",
+              "url": "https://archive.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "设计",
+      "name": "设计",
+      "rows": [
+        {
+          "id": "灵感",
+          "name": "灵感",
+          "links": [
+            {
+              "id": "https-dribbble-com",
+              "name": "Dribbble",
+              "url": "https://dribbble.com/"
+            },
+            {
+              "id": "https-www-behance-net",
+              "name": "Behance",
+              "url": "https://www.behance.net/"
+            },
+            {
+              "id": "https-www-zcool-com-cn",
+              "name": "站酷",
+              "url": "https://www.zcool.com.cn/"
+            },
+            {
+              "id": "https-stock-tuchong-com",
+              "name": "图虫创意",
+              "url": "https://stock.tuchong.com/"
+            },
+            {
+              "id": "https-www-ui-cn",
+              "name": "UICN",
+              "url": "https://www.ui.cn/"
+            },
+            {
+              "id": "https-land-book-com",
+              "name": "Land-book",
+              "url": "https://land-book.com/"
+            }
+          ]
+        },
+        {
+          "id": "图库",
+          "name": "图库",
+          "links": [
+            {
+              "id": "https-unsplash-com",
+              "name": "Unsplash",
+              "url": "https://unsplash.com/"
+            },
+            {
+              "id": "https-www-pinterest-com",
+              "name": "Pinterest",
+              "url": "https://www.pinterest.com/"
+            },
+            {
+              "id": "https-pixabay-com",
+              "name": "Pixabay",
+              "url": "https://pixabay.com/"
+            },
+            {
+              "id": "https-huaban-com",
+              "name": "花瓣",
+              "url": "https://huaban.com/"
+            },
+            {
+              "id": "https-500px-com",
+              "name": "500px",
+              "url": "https://500px.com/"
+            },
+            {
+              "id": "https-stocksnap-io",
+              "name": "StockSnap",
+              "url": "https://stocksnap.io/"
+            }
+          ]
+        },
+        {
+          "id": "素材",
+          "name": "素材",
+          "links": [
+            {
+              "id": "https-www-hellorf-com",
+              "name": "站酷海洛",
+              "url": "https://www.hellorf.com/"
+            },
+            {
+              "id": "https-www-58pic-com",
+              "name": "千图网",
+              "url": "https://www.58pic.com/"
+            },
+            {
+              "id": "https-www-nipic-com",
+              "name": "昵图网",
+              "url": "https://www.nipic.com/"
+            },
+            {
+              "id": "https-www-freepik-com",
+              "name": "Freepik",
+              "url": "https://www.freepik.com/"
+            },
+            {
+              "id": "https-www-pexels-com",
+              "name": "Pexels",
+              "url": "https://www.pexels.com/"
+            },
+            {
+              "id": "https-www-shutterstock-com",
+              "name": "Shutterstock",
+              "url": "https://www.shutterstock.com/"
+            }
+          ]
+        },
+        {
+          "id": "图标",
+          "name": "图标",
+          "links": [
+            {
+              "id": "https-www-flaticon-com",
+              "name": "Flaticon",
+              "url": "https://www.flaticon.com/"
+            },
+            {
+              "id": "https-www-iconfont-cn",
+              "name": "iconfont",
+              "url": "https://www.iconfont.cn/"
+            },
+            {
+              "id": "https-www-iconfinder-com",
+              "name": "Iconfinder",
+              "url": "https://www.iconfinder.com/"
+            },
+            {
+              "id": "https-thenounproject-com",
+              "name": "NounProject",
+              "url": "https://thenounproject.com/"
+            },
+            {
+              "id": "https-icons8-com",
+              "name": "Icons8",
+              "url": "https://icons8.com/"
+            },
+            {
+              "id": "https-css-gg",
+              "name": "CSS Icons",
+              "url": "https://css.gg/"
+            }
+          ]
+        },
+        {
+          "id": "颜色",
+          "name": "颜色",
+          "links": [
+            {
+              "id": "https-color-adobe-com",
+              "name": "Adobe Color",
+              "url": "https://color.adobe.com/"
+            },
+            {
+              "id": "https-colorhunt-co",
+              "name": "ColorHunt",
+              "url": "https://colorhunt.co/"
+            },
+            {
+              "id": "https-coolors-co",
+              "name": "Coolors",
+              "url": "https://coolors.co/"
+            },
+            {
+              "id": "https-webgradients-com",
+              "name": "WebGradients",
+              "url": "https://webgradients.com/"
+            },
+            {
+              "id": "http-colllor-com",
+              "name": "Colllor",
+              "url": "http://colllor.com/"
+            },
+            {
+              "id": "https-www-toptal-com-designers-colourcode",
+              "name": "ColourCode",
+              "url": "https://www.toptal.com/designers/colourcode"
+            }
+          ]
+        },
+        {
+          "id": "工具-2",
+          "name": "工具",
+          "links": [
+            {
+              "id": "https-ps-gaoding-com",
+              "name": "在线PS",
+              "url": "https://ps.gaoding.com/"
+            },
+            {
+              "id": "https-cloudconvert-com",
+              "name": "格式转换",
+              "url": "https://cloudconvert.com/"
+            },
+            {
+              "id": "https-tinypng-com",
+              "name": "TinyPNG",
+              "url": "https://tinypng.com/"
+            },
+            {
+              "id": "https-www-qiuziti-com",
+              "name": "求字体",
+              "url": "https://www.qiuziti.com/"
+            },
+            {
+              "id": "https-vectormagic-com",
+              "name": "矢量图转换",
+              "url": "https://vectormagic.com/"
+            },
+            {
+              "id": "https-bezier-method-ac",
+              "name": "贝塞尔曲线练习",
+              "url": "https://bezier.method.ac/"
+            }
+          ]
+        },
+        {
+          "id": "规范",
+          "name": "规范",
+          "links": [
+            {
+              "id": "https-developer-android-com-design",
+              "name": "Android",
+              "url": "https://developer.android.com/design"
+            },
+            {
+              "id": "https-developer-apple-com-design",
+              "name": "Apple",
+              "url": "https://developer.apple.com/design/"
+            },
+            {
+              "id": "https-design-google",
+              "name": "Google",
+              "url": "https://design.google/"
+            },
+            {
+              "id": "https-www-microsoft-com-design",
+              "name": "Microsoft",
+              "url": "https://www.microsoft.com/design"
+            },
+            {
+              "id": "https-material-io",
+              "name": "Material",
+              "url": "https://material.io/"
+            },
+            {
+              "id": "https-ant-design",
+              "name": "Ant Design",
+              "url": "https://ant.design/"
+            }
+          ]
+        },
+        {
+          "id": "教程",
+          "name": "教程",
+          "links": [
+            {
+              "id": "https-www-uisdc-com",
+              "name": "优设网",
+              "url": "https://www.uisdc.com/"
+            },
+            {
+              "id": "https-www-gogoup-com",
+              "name": "站酷学习",
+              "url": "https://www.gogoup.com/"
+            },
+            {
+              "id": "https-uiiiuiii-com",
+              "name": "优优教程",
+              "url": "https://uiiiuiii.com/"
+            },
+            {
+              "id": "https-huke88-com",
+              "name": "虎课网",
+              "url": "https://huke88.com/"
+            },
+            {
+              "id": "https-design-tutsplus-com",
+              "name": "TUTS+",
+              "url": "https://design.tutsplus.com/"
+            },
+            {
+              "id": "https-medium-design",
+              "name": "Medium",
+              "url": "https://medium.design/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

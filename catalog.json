@@ -1,0 +1,216 @@
+{
+  "edition": "international",
+  "wordmark": "iancenao",
+  "categories": [
+    {
+      "id": "recommend",
+      "name": "Recommend",
+      "rows": [
+        { "id": "sns", "name": "SNS", "links": [
+          { "id": "twitter", "name": "Twitter", "url": "https://twitter.com/" },
+          { "id": "facebook", "name": "Facebook", "url": "https://www.facebook.com/" },
+          { "id": "instagram", "name": "Instagram", "url": "https://www.instagram.com/" },
+          { "id": "reddit", "name": "Reddit", "url": "https://www.reddit.com/" },
+          { "id": "tiktok", "name": "TikTok", "url": "https://www.tiktok.com/" },
+          { "id": "discord", "name": "Discord", "url": "https://discord.com/" }
+        ]},
+        { "id": "movies", "name": "Movies", "links": [
+          { "id": "youtube", "name": "YouTube", "url": "https://www.youtube.com/" },
+          { "id": "netflix", "name": "Netflix", "url": "https://www.netflix.com/" },
+          { "id": "imdb", "name": "IMDb", "url": "https://www.imdb.com/" },
+          { "id": "hotstar", "name": "Hotstar", "url": "https://www.hotstar.com/" },
+          { "id": "disney", "name": "Disney+", "url": "https://www.disneyplus.com/" },
+          { "id": "hulu", "name": "Hulu", "url": "https://www.hulu.com/" }
+        ]},
+        { "id": "shopping", "name": "Shopping", "links": [
+          { "id": "amazon", "name": "Amazon", "url": "https://www.amazon.com/" },
+          { "id": "ebay", "name": "eBay", "url": "https://www.ebay.com/" },
+          { "id": "walmart", "name": "Walmart", "url": "https://www.walmart.com/" },
+          { "id": "rakuten", "name": "Rakuten", "url": "https://www.rakuten.co.jp/" },
+          { "id": "aliexpress", "name": "AliExpress", "url": "https://www.aliexpress.com/" },
+          { "id": "costco", "name": "Costco", "url": "https://www.costco.com/" }
+        ]},
+        { "id": "news", "name": "News", "links": [
+          { "id": "yahoo", "name": "Yahoo", "url": "https://www.yahoo.com/" },
+          { "id": "msn", "name": "MSN", "url": "https://www.msn.com/" },
+          { "id": "bbc", "name": "BBC", "url": "https://www.bbc.com/" },
+          { "id": "cnn", "name": "CNN", "url": "https://edition.cnn.com/" },
+          { "id": "fox", "name": "Fox News", "url": "https://www.foxnews.com/" },
+          { "id": "nyt", "name": "The New York Times", "url": "https://www.nytimes.com/" }
+        ]},
+        { "id": "music", "name": "Music", "links": [
+          { "id": "spotify", "name": "Spotify", "url": "https://www.spotify.com/" },
+          { "id": "soundcloud", "name": "SoundCloud", "url": "https://soundcloud.com/" },
+          { "id": "applemusic", "name": "Apple Music", "url": "https://music.apple.com/" },
+          { "id": "amazonmusic", "name": "Amazon Music", "url": "https://music.amazon.com/" },
+          { "id": "pandora", "name": "Pandora", "url": "https://www.pandora.com/" },
+          { "id": "bandcamp", "name": "Bandcamp", "url": "https://www.bandcamp.com/" }
+        ]},
+        { "id": "arts", "name": "Arts", "links": [
+          { "id": "worldstar", "name": "Worldstar", "url": "https://worldstarhiphop.com/" },
+          { "id": "vimeo", "name": "Vimeo", "url": "https://vimeo.com/" },
+          { "id": "fandom", "name": "Fandom", "url": "https://www.fandom.com/" },
+          { "id": "pixiv", "name": "Pixiv", "url": "https://www.pixiv.net/" },
+          { "id": "tumblr", "name": "Tumblr", "url": "https://www.tumblr.com/" },
+          { "id": "deviantart", "name": "DeviantArt", "url": "https://www.deviantart.com/" }
+        ]},
+        { "id": "games", "name": "Games", "links": [
+          { "id": "twitch", "name": "Twitch", "url": "https://www.twitch.tv/" },
+          { "id": "steam", "name": "Steam", "url": "https://store.steampowered.com/" },
+          { "id": "gog", "name": "GOG", "url": "https://www.gog.com/" },
+          { "id": "epic", "name": "Epic Games", "url": "https://www.epicgames.com/" },
+          { "id": "origin", "name": "Origin", "url": "https://www.origin.com/" },
+          { "id": "uplay", "name": "Uplay", "url": "https://www.uplay.com/" }
+        ]},
+        { "id": "finance", "name": "Finance", "links": [
+          { "id": "paypal", "name": "PayPal", "url": "https://www.paypal.com/" },
+          { "id": "boa", "name": "Bank of America", "url": "https://www.bankofamerica.com/" },
+          { "id": "wellsfargo", "name": "Wells Fargo", "url": "https://www.wellsfargo.com/" },
+          { "id": "citi", "name": "Citi", "url": "https://www.citi.com/" },
+          { "id": "amex", "name": "American Express", "url": "https://www.americanexpress.com/" },
+          { "id": "discover", "name": "Discover", "url": "https://www.discover.com/" }
+        ]}
+      ]
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "rows": [
+        { "id": "community", "name": "Community", "links": [
+          { "id": "so", "name": "StackOverflow", "url": "https://stackoverflow.com/" },
+          { "id": "askubuntu", "name": "Ask Ubuntu", "url": "https://askubuntu.com/" },
+          { "id": "superuser", "name": "Super User", "url": "https://superuser.com/" },
+          { "id": "serverfault", "name": "Server Fault", "url": "https://serverfault.com/" },
+          { "id": "producthunt", "name": "ProductHunt", "url": "https://www.producthunt.com/" },
+          { "id": "hn", "name": "HackerNews", "url": "https://news.ycombinator.com/" }
+        ]},
+        { "id": "spaces", "name": "Spaces", "links": [
+          { "id": "github", "name": "GitHub", "url": "https://github.com/" },
+          { "id": "gitlab", "name": "GitLab", "url": "https://gitlab.com/" },
+          { "id": "bitbucket", "name": "Bitbucket", "url": "https://bitbucket.org/" },
+          { "id": "codepen", "name": "CodePen", "url": "https://codepen.io/" },
+          { "id": "codesandbox", "name": "CodeSandbox", "url": "https://codesandbox.io/" },
+          { "id": "notion", "name": "Notion", "url": "https://www.notion.so/" }
+        ]},
+        { "id": "cloud", "name": "Cloud", "links": [
+          { "id": "aws", "name": "AWS", "url": "https://aws.amazon.com/" },
+          { "id": "gcp", "name": "Google Cloud", "url": "https://cloud.google.com/" },
+          { "id": "azure", "name": "Azure", "url": "https://azure.microsoft.com/" },
+          { "id": "digitalocean", "name": "DigitalOcean", "url": "https://www.digitalocean.com/" },
+          { "id": "heroku", "name": "Heroku", "url": "https://www.heroku.com/" },
+          { "id": "cloudflare", "name": "Cloudflare", "url": "https://www.cloudflare.com/" }
+        ]},
+        { "id": "tools", "name": "Tools", "links": [
+          { "id": "ipinfo", "name": "IPinfo", "url": "https://ipinfo.io/" },
+          { "id": "speedtest", "name": "Speedtest", "url": "https://www.speedtest.net/" },
+          { "id": "virustotal", "name": "VirusTotal", "url": "https://www.virustotal.com/" },
+          { "id": "regexr", "name": "RegExr", "url": "https://regexr.com/" },
+          { "id": "caniuse", "name": "Can I use", "url": "https://caniuse.com/" },
+          { "id": "diffchecker", "name": "Diffchecker", "url": "https://www.diffchecker.com/" }
+        ]},
+        { "id": "analytics", "name": "Analytics", "links": [
+          { "id": "pingpe", "name": "Ping.pe", "url": "https://ping.pe/" },
+          { "id": "shodan", "name": "Shodan", "url": "https://www.shodan.io/" },
+          { "id": "similarweb", "name": "SimilarWeb", "url": "https://www.similarweb.com/" },
+          { "id": "similarsites", "name": "SimilarSites", "url": "https://www.similarsites.com/" },
+          { "id": "pagespeed", "name": "PageSpeed", "url": "https://pagespeed.web.dev/" },
+          { "id": "webpagetest", "name": "WebPageTest", "url": "https://webpagetest.org/" }
+        ]},
+        { "id": "docs", "name": "Docs", "links": [
+          { "id": "mdn", "name": "MDN", "url": "https://developer.mozilla.org/" },
+          { "id": "android", "name": "Android", "url": "https://developer.android.com/docs" },
+          { "id": "apple", "name": "Apple", "url": "https://developer.apple.com/documentation/" },
+          { "id": "w3schools", "name": "W3Schools", "url": "https://www.w3schools.com/" },
+          { "id": "jquery", "name": "jQuery", "url": "https://api.jquery.com/" },
+          { "id": "git", "name": "Git", "url": "https://git-scm.com/" }
+        ]},
+        { "id": "guides", "name": "Guides", "links": [
+          { "id": "csstricks", "name": "CSS-Tricks", "url": "https://css-tricks.com/" },
+          { "id": "baeldung", "name": "Baeldung", "url": "https://www.baeldung.com/" },
+          { "id": "programiz", "name": "Programiz", "url": "https://www.programiz.com/" },
+          { "id": "jstips", "name": "JsTips", "url": "https://www.jstips.co/" },
+          { "id": "gfg", "name": "GeeksforGeeks", "url": "https://www.geeksforgeeks.org/" },
+          { "id": "fcc", "name": "freeCodeCamp", "url": "https://www.freecodecamp.org/" }
+        ]},
+        { "id": "resources", "name": "Resources", "links": [
+          { "id": "sourceforge", "name": "SourceForge", "url": "https://sourceforge.net/" },
+          { "id": "npm", "name": "npm", "url": "https://www.npmjs.com/" },
+          { "id": "dockerhub", "name": "Docker Hub", "url": "https://hub.docker.com/" },
+          { "id": "homebrew", "name": "Homebrew", "url": "https://formulae.brew.sh/" },
+          { "id": "pypi", "name": "PyPI", "url": "https://pypi.org/" },
+          { "id": "gopkg", "name": "Go Pkg", "url": "https://pkg.go.dev/" }
+        ]}
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design",
+      "rows": [
+        { "id": "creatives", "name": "Creatives", "links": [
+          { "id": "dribbble", "name": "Dribbble", "url": "https://dribbble.com/" },
+          { "id": "behance", "name": "Behance", "url": "https://www.behance.net/" },
+          { "id": "panda", "name": "Panda", "url": "https://app.usepanda.com/" },
+          { "id": "abdz", "name": "abdz.do", "url": "https://abduzeedo.com/" },
+          { "id": "landbook", "name": "Land-book", "url": "https://land-book.com/" },
+          { "id": "muzli", "name": "Muzli", "url": "https://muz.li/" }
+        ]},
+        { "id": "images", "name": "Images", "links": [
+          { "id": "unsplash", "name": "Unsplash", "url": "https://unsplash.com/" },
+          { "id": "pinterest", "name": "Pinterest", "url": "https://www.pinterest.com/" },
+          { "id": "pixabay", "name": "Pixabay", "url": "https://pixabay.com/" },
+          { "id": "pexels", "name": "Pexels", "url": "https://www.pexels.com/" },
+          { "id": "500px", "name": "500px", "url": "https://500px.com/" },
+          { "id": "splitshire", "name": "SplitShire", "url": "https://www.splitshire.com/" }
+        ]},
+        { "id": "icons", "name": "Icons", "links": [
+          { "id": "flaticon", "name": "Flaticon", "url": "https://www.flaticon.com/" },
+          { "id": "iconscout", "name": "iconscout", "url": "https://iconscout.com/" },
+          { "id": "iconfinder", "name": "Iconfinder", "url": "https://www.iconfinder.com/" },
+          { "id": "noun", "name": "NounProject", "url": "https://thenounproject.com/" },
+          { "id": "icons8", "name": "Icons8", "url": "https://icons8.com/" },
+          { "id": "cssicons", "name": "CSS Icons", "url": "https://css.gg/" }
+        ]},
+        { "id": "fonts", "name": "Fonts", "links": [
+          { "id": "fontsup", "name": "Fontsup", "url": "https://fontsup.com/" },
+          { "id": "fonts2u", "name": "Fonts2u", "url": "https://fonts2u.com/" },
+          { "id": "urbanfonts", "name": "UrbanFonts", "url": "https://www.urbanfonts.com/" },
+          { "id": "myfonts", "name": "MyFonts", "url": "https://www.myfonts.com/" },
+          { "id": "adobefonts", "name": "Adobe Fonts", "url": "https://fonts.adobe.com/" },
+          { "id": "googlefonts", "name": "Google Fonts", "url": "https://fonts.google.com/" }
+        ]},
+        { "id": "colors", "name": "Colors", "links": [
+          { "id": "adobecolor", "name": "Adobe Color", "url": "https://color.adobe.com/" },
+          { "id": "colorhunt", "name": "ColorHunt", "url": "https://colorhunt.co/" },
+          { "id": "coolors", "name": "Coolors", "url": "https://coolors.co/" },
+          { "id": "webgradients", "name": "WebGradients", "url": "https://webgradients.com/" },
+          { "id": "colllor", "name": "Colllor", "url": "http://colllor.com/" },
+          { "id": "paletton", "name": "Paletton", "url": "https://paletton.com/" }
+        ]},
+        { "id": "design-resources", "name": "Resources", "links": [
+          { "id": "freepik", "name": "Freepik", "url": "https://www.freepik.com/" },
+          { "id": "firmbee", "name": "Firmbee", "url": "https://firmbee.com/" },
+          { "id": "subtle", "name": "Subtle Patterns", "url": "https://www.toptal.com/designers/subtlepatterns/" },
+          { "id": "pixeden", "name": "Pixeden", "url": "https://www.pixeden.com/" },
+          { "id": "shutterstock", "name": "Shutterstock", "url": "https://www.shutterstock.com/" },
+          { "id": "themeforest", "name": "Themeforest", "url": "https://themeforest.net/" }
+        ]},
+        { "id": "design-tools", "name": "Tools", "links": [
+          { "id": "fotor", "name": "Fotor", "url": "https://www.fotor.com/" },
+          { "id": "cloudconvert", "name": "CloudConvert", "url": "https://cloudconvert.com/" },
+          { "id": "tinypng", "name": "TinyPNG", "url": "https://tinypng.com/" },
+          { "id": "autodraw", "name": "AutoDraw", "url": "https://www.autodraw.com/" },
+          { "id": "vectormagic", "name": "Vector Magic", "url": "https://vectormagic.com/" },
+          { "id": "bezier", "name": "The Bézier Game", "url": "https://bezier.method.ac/" }
+        ]},
+        { "id": "guidelines", "name": "Guidelines", "links": [
+          { "id": "android-design", "name": "Android", "url": "https://developer.android.com/design" },
+          { "id": "apple-design", "name": "Apple", "url": "https://developer.apple.com/design/" },
+          { "id": "google-design", "name": "Google", "url": "https://design.google/" },
+          { "id": "microsoft-design", "name": "Microsoft", "url": "https://www.microsoft.com/design" },
+          { "id": "material", "name": "Material", "url": "https://material.io/" },
+          { "id": "screensizes", "name": "Screen Sizes", "url": "https://screensiz.es/" }
+        ]}
+      ]
+    }
+  ]
+}

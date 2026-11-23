@@ -1,0 +1,15 @@
+services:
+  ihomepage:
+    image: ghcr.io/charlesfield19/ihomepage:latest
+    container_name: ihomepage-nav
+    restart: unless-stopped
+    ports:
+      # Kept on loopback so a local HTTPS reverse proxy owns the public port.
+      - "127.0.0.1:11192:80"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/index.html"]
+      interval: 30s
+      timeout: 3s
+      start_period: 5s
+      retries: 3
+    stop_grace_period: 5s

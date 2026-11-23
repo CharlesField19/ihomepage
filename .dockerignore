@@ -1,0 +1,9 @@
+.git
+.github
+scripts
+README.md
+README.en.md
+.gitignore
+.gitattributes
+.dockerignore
+compose.yaml
