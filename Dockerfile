@@ -2,7 +2,7 @@ FROM nginx:1.31.9-alpine
 
 LABEL org.opencontainers.image.title="iancenao" \
       org.opencontainers.image.description="Static link dashboard: no build step, no backend, no database." \
-      org.opencontainers.image.version="1.0.1" \
+      org.opencontainers.image.version="1.0.3" \
       org.opencontainers.image.source="https://github.com/CharlesField19/ihomepage"
 
 COPY deploy/nginx.conf /etc/nginx/conf.d/default.conf

@@ -80,6 +80,7 @@ docker compose up -d
 - **Search engines**: the original 19 from 0x3; subscribing to Mainland China adds Taobao, JD, Weibo, Zhihu, Douban, Toutiao, Tencent Video, iQiyi, Youku, Mango TV, Bilibili and AcFun.
 - **Reset**: Setting → Reset All Settings clears this browser's changes.
 - **Banners**: replace `banners/wide.jpg` and `narrow.jpg`, or turn Banners off in settings.
+- **After editing styles**: `app.css` and `app.js` carry a `?v=` version in `index.html`; bump it whenever you change those files so browsers pick the new copy up immediately.
 
 ## Icons
 

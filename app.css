@@ -133,6 +133,7 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   .matrix { padding: 0 24px 12px; }
   .footer { padding: 22px 6%; }
   .pref-grid { grid-template-columns: 1fr 1fr; }
+  .footer nav { position: static; transform: none; }
   .add-chip { right: -22px; }
   .add-row { margin-left: 0; }
 
