@@ -1,6 +1,6 @@
 services:
   ihomepage:
-    image: ghcr.io/charlesfield19/ihomepage:latest
+    image: ghcr.io/charlesfield19/ihomepage:v1.0.1
     container_name: ihomepage-nav
     restart: unless-stopped
     ports:
